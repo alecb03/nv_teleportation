@@ -4,7 +4,7 @@
 
 A simple quantum teleportation protocol with Simos Sspins
 
-* [GitHub](https://github.com/alecb03/nv_teleportation/)| [Documentation](https://alecb03.github.io/nv_teleportation/docs/_build/html/index.html)
+* [GitHub](https://github.com/alecb03/nv_teleportation/)| [Documentation](https://nv-teleportation.readthedocs.io/en/latest/index.html)
 * Created by [Alec Burnett] | GitHub [@alecb03](https://github.com/alecb03) | PyPI [@alecb03](https://pypi.org/user/alecb03/)
 * MIT License
 

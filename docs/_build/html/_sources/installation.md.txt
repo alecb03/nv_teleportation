@@ -36,3 +36,14 @@ Once you have a copy of the source, you can install it with:
 cd nv_teleportation
 uv sync
 ```
+You will need an environment with the following packages:
+* Python 3.11
+* NumPy
+* Simos
+* Qutip
+Once you have these packages installed, you can install nv_teleportation in the same
+environment using
+```sh
+pip install -e .
+```
+from the top-level src/ nv_teleportation 

@@ -1,3 +1,9 @@
 # API Reference
 
-::: nv_teleportation
+```{eval-rst}
+.. automodule:: nv_teleportation
+    :members:
+    :imported-members:
+    :undoc-members:
+    :show-inheritance:
+```

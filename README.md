@@ -2,7 +2,8 @@
 
 ![PyPI version](https://img.shields.io/pypi/v/nv_teleportation.svg)
 
-A simple quantum teleportation protocol with Simos Sspins
+A simple quantum teleportation protocol with Simos Spins
+Simos : https://doi.org/10.48550/arXiv.2501.05922
 
 * [GitHub](https://github.com/alecb03/nv_teleportation/)| [Documentation](https://nv-teleportation.readthedocs.io/en/latest/index.html)
 * Created by [Alec Burnett] | GitHub [@alecb03](https://github.com/alecb03)

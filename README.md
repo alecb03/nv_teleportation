@@ -5,24 +5,8 @@
 A simple quantum teleportation protocol with Simos Sspins
 
 * [GitHub](https://github.com/alecb03/nv_teleportation/)| [Documentation](https://nv-teleportation.readthedocs.io/en/latest/index.html)
-* Created by [Alec Burnett] | GitHub [@alecb03](https://github.com/alecb03) | PyPI [@alecb03](https://pypi.org/user/alecb03/)
-* MIT License
+* Created by [Alec Burnett] | GitHub [@alecb03](https://github.com/alecb03)
 
-## Features
-
-* TODO
-
-## Documentation
-
-Documentation is built with [Zensical](https://zensical.org/) and deployed to GitHub Pages.
-
-* **Live site:** https://alecb03.github.io/nv_teleportation/
-* **Preview locally:** `just docs-serve` (serves at http://localhost:8000)
-* **Build:** `just docs-build`
-
-API documentation is auto-generated from docstrings using [mkdocstrings](https://mkdocstrings.github.io/).
-
-Docs deploy automatically on push to `main` via GitHub Actions. To enable this, go to your repo's Settings > Pages and set the source to **GitHub Actions**.
 
 ## Development
 
